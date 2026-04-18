@@ -15,3 +15,4 @@ walrus
 ofc
 base
 arnold
+coinbase
