@@ -16,3 +16,4 @@ ofc
 base
 arnold
 coinbase
+coinbaselove
