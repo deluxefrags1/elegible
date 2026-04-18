@@ -10,3 +10,4 @@ military
 tank
 task
 periody
+fullpc
