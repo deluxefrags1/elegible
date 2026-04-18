@@ -17,3 +17,4 @@ base
 arnold
 coinbase
 coinbaselove
+base.eth
