@@ -19,3 +19,4 @@ coinbase
 coinbaselove
 base.eth
 miguel
+crisch
