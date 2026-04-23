@@ -20,3 +20,4 @@ coinbaselove
 base.eth
 miguel
 crisch
+gago
